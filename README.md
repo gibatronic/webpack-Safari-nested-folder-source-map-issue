@@ -13,3 +13,12 @@ Safari web inspector does not show the original source code for entries that are
 5. Open the Web Inspector
 6. Go to the `Debugger` or `Resources` tab
 7. See that `nested.js` is not available under `src/nested`
+
+## Demonstration:
+<img alt="Demonstration" src="demo.gif" align="left" width="250">
+
+`simple.js` is available
+<br>
+`nested.js` is not, because
+<br>
+`src/nested` is shown empty
