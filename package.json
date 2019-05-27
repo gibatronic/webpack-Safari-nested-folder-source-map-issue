@@ -1,0 +1,12 @@
+{
+    "dependencies": {
+        "webpack": "^4.32.2",
+        "webpack-cli": "^3.3.2",
+        "webpack-dev-server": "^3.4.1"
+    },
+    "scripts": {
+        "build": "npx webpack",
+        "start": "npx webpack-dev-server"
+    },
+    "private": true
+}
